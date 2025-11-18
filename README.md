@@ -32,7 +32,7 @@ Data Generation
 cd "Data Generation"
 python "CNN Training.py"
 # For MLPs -> python MLP Training.py
-# For Transformers -> python "ransformer Training.py
+# For Transformers -> python Transformer Training.py
 ```
 
 ---
