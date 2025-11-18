@@ -30,9 +30,9 @@ source .venv/bin/activate        # macOS/Linux
 ```bash
 Data Generation
 cd "Data Generation"
-python "CNN Training.py"
-# For MLPs -> python MLP Training.py
-# For Transformers -> python Transformer Training.py
+python "CNN_Training.py"
+# For MLPs -> python MLP_Training.py
+# For Transformers -> python Transformer_Training.py
 ```
 
 ---
